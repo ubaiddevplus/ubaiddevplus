@@ -33,7 +33,7 @@
 ### 📌 Featured Project
 
 <a href="https://github.com/ubaiddevplus/CalcFlow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ubaiddevplus&repo=CalcFlow&theme=dark" />
+  <img align="center" src="https://gh-card.dev/repos/ubaiddevplus/CalcFlow.svg" />
 </a>
 
 ---
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-![Ubaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubaiddevplus&show_icons=true&theme=dark&hide_border=true)
+![Ubaid's GitHub stats](https://streak-stats.demolab.com?user=ubaiddevplus&theme=dark&hide_border=true)
 
 </div>
 
