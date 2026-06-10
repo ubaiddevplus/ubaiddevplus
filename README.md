@@ -42,7 +42,13 @@
 
 <div align="center">
 
-![Ubaid's GitHub stats](https://streak-stats.demolab.com?user=ubaiddevplus&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ubaiddevplus&theme=dark&hide_border=true&show_icons=true)
+
+
+
+
+
+![Streak](https://streak-stats.demolab.com/?user=ubaiddevplus&theme=dark&hide_border=true)
 
 </div>
 
