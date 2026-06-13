@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Ubaid 👋
+#  I'm Ubaid 
 
 ### 📱 Mobile Developer | 🐍 Python Enthusiast | 🔨 Problem Solver
 
