@@ -42,13 +42,13 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ubaiddevplus&theme=dark&hide_border=true&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ubaiddevplus&theme=dark&hide_border=true&show_icons=true&cache_seconds=1800)
 
 
 
 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubaiddevplus&theme=dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=ubaiddevplus&theme=dark&hide_border=true&cache_seconds=1800)
 
 </div>
 
