@@ -48,7 +48,7 @@
 
 
 
-![Streak](https://streak-stats.demolab.com/?user=ubaiddevplus&theme=dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubaiddevplus&theme=dark&hide_border=true)
 
 </div>
 
