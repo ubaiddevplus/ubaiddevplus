@@ -48,7 +48,7 @@
 
 
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=ubaiddevplus&theme=github-dark)
+![Contributions](https://github-readme-stats.vercel.app/api?username=ubaiddevplus&show=reviews,discussions_started&theme=dark)
 
 </div>
 
