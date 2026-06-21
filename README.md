@@ -42,11 +42,7 @@
 
 <div align="center">
 
-[
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=ubaiddevplus&theme=darkhub&no-frame=true&row=1)
-
-](https://github.com/ubaiddevplus)
 
 
 
