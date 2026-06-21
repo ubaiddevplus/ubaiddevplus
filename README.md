@@ -42,7 +42,11 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ubaiddevplus&show=reviews,discussions_started&theme=dark&show_icons=true&hide_border=true&hide_rank=true)
+[
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ubaiddevplus&theme=darkhub&no-frame=true&row=1)
+
+](https://github.com/ubaiddevplus)
 
 
 
