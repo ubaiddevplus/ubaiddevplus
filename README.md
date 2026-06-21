@@ -48,7 +48,7 @@
 
 
 
-![Streak](https://streak-stats.demolab.com/?user=ubaiddevplus&theme=dark&hide_border=true&cache_seconds=1800)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=ubaiddevplus&theme=github-dark)
 
 </div>
 
