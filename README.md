@@ -2,7 +2,7 @@
 
 #  I'm Ubaiddev 
 
-### 📱 Mobile Developer | 🐍 Python Enthusiast | 🔨 Problem Solver
+### 📱 Flutter & Python Developer | 🔨 Problem Solver
 
 </div>
 
